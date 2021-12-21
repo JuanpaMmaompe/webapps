@@ -32,6 +32,5 @@ C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.dll
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.pdb
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.genruntimeconfig.cache
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.csproj.CopyComplete
-C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.StaticWebAssets.xml
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.csproj.AssemblyReference.cache
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.GeneratedMSBuildEditorConfig.editorconfig
