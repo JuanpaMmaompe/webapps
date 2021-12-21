@@ -1,6 +1,5 @@
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.exe
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.deps.json
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.runtimeconfig.json
@@ -9,7 +8,6 @@ C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.dll
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.pdb
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.Views.dll
 C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.Views.pdb
-C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.csprojAssemblyReference.cache
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.AssemblyInfoInputs.cache
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.AssemblyInfo.cs
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.csproj.CoreCompileInputs.cache
@@ -30,8 +28,10 @@ C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.RazorTargetAssembl
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.RazorTargetAssemblyInfo.cs
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.Views.pdb
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\staticwebassets\webapps.StaticWebAssets.Manifest.cache
-C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\staticwebassets\webapps.StaticWebAssets.xml
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.dll
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.pdb
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.genruntimeconfig.cache
 C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.csproj.CopyComplete
+C:\Users\juanp\platzi\webapps\bin\Debug\netcoreapp3.1\webapps.StaticWebAssets.xml
+C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.csproj.AssemblyReference.cache
+C:\Users\juanp\platzi\webapps\obj\Debug\netcoreapp3.1\webapps.GeneratedMSBuildEditorConfig.editorconfig
